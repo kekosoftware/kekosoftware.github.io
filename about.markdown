@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Hi there 👋, I'm Argentinean - [kekosoftware](http://kekosoftware.com.ar) <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## I'm a Bachelor in Systems form the UNNE (National University of the Northeast) in Argentina
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, VueJS, PHP, Laravale, etc.
+- 📚 I’m currently learning a Master degree in UNNE 😅
+- 💪🏼 Future Goals: Starting a Doctor in UNNE.
+- ⚡ Fun fact: I love to play basket and Swimming.
 
+### Contact with me 📝
+- [kekosoftware](http://kekosoftware.com.ar)
+- [LinkedIn](https://www.linkedin.com/in/gustavo-ariel-coronel/)
 
-[jekyll-organization]: https://github.com/jekyll
+<br />
+
